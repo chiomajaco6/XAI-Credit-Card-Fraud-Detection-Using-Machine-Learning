@@ -1,0 +1,22 @@
+# Large data files
+creditcard.csv
+archive.zip
+
+# Model binaries
+models/best_model.pkl
+models_R/best_model.rds
+
+# R session artifacts
+.RData
+.Rhistory
+.Rproj.user/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
