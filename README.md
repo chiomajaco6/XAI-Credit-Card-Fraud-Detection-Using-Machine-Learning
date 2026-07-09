@@ -87,6 +87,7 @@ The following individuals contributed to this project:
 - Adams Emmanuel chidinma
 - ASIULOKA FAVOUR OZIOMA
 - Ihechere Ifeanyi Solomon
+- Mmereole Chinwe Angela 
 ---
 
 ## 👩‍💻 Author
