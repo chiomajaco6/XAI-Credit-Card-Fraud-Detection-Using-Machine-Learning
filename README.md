@@ -85,6 +85,7 @@ The following individuals contributed to this project:
 - John-Anoruo Onyemaobichukwu Innocent
 - Idika Blessing Uduma
 - Adams Emmanuel chidinma
+- ASIULOKA FAVOUR OZIOMA
 ---
 
 ## 👩‍💻 Author
