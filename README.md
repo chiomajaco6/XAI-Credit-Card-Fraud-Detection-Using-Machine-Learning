@@ -82,6 +82,7 @@ The following individuals contributed to this project:
 - Ihedoro Ifeanyichukwu Desmond  
 - Hillary Chukwuma Prince  
 - Mannah Marvellous Ogrenye 
+- John-Anoruo Onyemaobichukwu Innocent
 ---
 
 ## 👩‍💻 Author
