@@ -83,6 +83,7 @@ The following individuals contributed to this project:
 - Hillary Chukwuma Prince  
 - Mannah Marvellous Ogrenye 
 - John-Anoruo Onyemaobichukwu Innocent
+- Idika Blessing Uduma
 ---
 
 ## 👩‍💻 Author
