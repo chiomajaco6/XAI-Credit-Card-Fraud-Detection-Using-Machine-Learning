@@ -84,6 +84,7 @@ The following individuals contributed to this project:
 - Mannah Marvellous Ogrenye 
 - John-Anoruo Onyemaobichukwu Innocent
 - Idika Blessing Uduma
+- Adams Emmanuel chidinma
 ---
 
 ## 👩‍💻 Author
