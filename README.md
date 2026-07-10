@@ -89,6 +89,7 @@ The following individuals contributed to this project:
 - Ihechere Ifeanyi Solomon
 - Mmereole Chinwe Angela 
 - Kalu Uka Chiemerie Miracle
+- Iheaka Dickson Egwuonwu
 ---
 
 ## 👩‍💻 Author
