@@ -88,6 +88,7 @@ The following individuals contributed to this project:
 - ASIULOKA FAVOUR OZIOMA
 - Ihechere Ifeanyi Solomon
 - Mmereole Chinwe Angela 
+- Kalu Uka Chiemerie Miracle
 ---
 
 ## 👩‍💻 Author
