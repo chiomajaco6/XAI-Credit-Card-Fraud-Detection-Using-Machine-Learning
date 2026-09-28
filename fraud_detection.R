@@ -160,6 +160,8 @@ cat(sprintf("  After ROSE – Legit: %d  |  Fraud: %d\n",
 X_test <- test_df %>% select(-Class)
 y_test <- as.integer(as.character(test_df$Class))
 # gg
+#jh
+#yydg
 # =============================================================================
 # STEP 4: MODEL TRAINING & EVALUATION
 # =============================================================================
